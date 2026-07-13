@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SA Motors | Technology</title>
+
+<link rel="stylesheet" href="Css/style.css">
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">SA MOTORS</div>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="sa01.html">SA-01</a>
+<a href="technology.html">Technology</a>
+<a href="gallery.html">Gallery</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+<section class="content">
+
+<h1>Technology</h1>
+
+<p>
+At SA Motors, we imagine the future of mobility. The technologies below are concept ideas that explore how future vehicles might become safer, smarter, and more sustainable.
+</p>
+
+<br><br>
+
+<h2>⚡ Electric Concept Powertrain</h2>
+<p>
+A high-performance electric drivetrain designed for fast acceleration, quiet driving, and zero tailpipe emissions.
+</p>
+
+<br>
+
+<h2>📡 360° Sensor System</h2>
+<p>
+A roof-mounted sensor array with cameras, radar, and LiDAR concepts to improve driver awareness and support future autonomous driving.
+</p>
+
+<br>
+
+<h2>🤖 AI Driver Assistance</h2>
+<p>
+Advanced software concepts that could help with lane keeping, parking, navigation, and collision avoidance while keeping the driver in control.
+</p>
+
+<br>
+
+<h2>🔋 Future Energy Research</h2>
+<p>
+SA Motors also explores future energy concepts. New energy technologies require extensive scientific testing and engineering before they can be used in production vehicles.
+</p>
+
+<br><br>
+
+<a href="gallery.html" class="button">View Gallery</a>
+
+</section>
+
+<footer>
+
+<p>© 2026 SA Motors. All Rights Reserved.</p>
+
+</footer>
+
+<script src="Js/script.js"></script>
+
+</body>
+</html>

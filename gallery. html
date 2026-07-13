@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SA Motors | Gallery</title>
+
+<link rel="stylesheet" href="Css/style.css">
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">SA MOTORS</div>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="sa01.html">SA-01</a>
+<a href="technology.html">Technology</a>
+<a href="gallery.html">Gallery</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+<section class="content">
+
+<h1>SA-01 Gallery</h1>
+
+<p>Explore the SA-01 concept from every angle.</p>
+
+<div class="gallery">
+
+<img src="images/hero.jpg" alt="SA-01 Front">
+<img src="images/interior.jpg" alt="SA-01 Interior">
+<img src="images/blueprint.jpg" alt="SA-01 Blueprint">
+<img src="images/side.jpg" alt="SA-01 Side View">
+<img src="images/rear.jpg" alt="SA-01 Rear View">
+<img src="images/logo.png" alt="SA Motors Logo">
+
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2026 SA
